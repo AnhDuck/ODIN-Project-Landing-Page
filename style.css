@@ -13,6 +13,37 @@ body {
     font-family: roboto;
 }
 
+/* Stuff for fourth-section of landing page */
+.fourth-section {
+    display: flex;
+    height: 25vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.cta {
+    background-color: #3882F6;
+    padding: 25px 100px;
+    margin: 0px 50px;
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+}
+
+.cta button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 10px;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+
 /* Stuff for third-section of landing page */
 .third-section {
     display: flex;
