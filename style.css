@@ -13,6 +13,30 @@ body {
     font-family: roboto;
 }
 
+/* Stuff for third-section of landing page */
+.third-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    background-color: #E5E7EB;
+}
+
+.third-section h1 {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.third-container {
+    width: 790px;
+}
+
+.third-section p {
+    font-weight: 900;
+    text-align: end;
+}
+
 /* Stuff for second-section of landing page */
 .second-section {
     display: flex;
