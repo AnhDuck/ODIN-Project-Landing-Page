@@ -12,6 +12,15 @@ body {
     flex: 1;
     font-family: roboto;
 }
+/* Stuff for fourth-section of landing page */
+footer {
+    display: flex;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+}
 
 /* Stuff for fourth-section of landing page */
 .fourth-section {
